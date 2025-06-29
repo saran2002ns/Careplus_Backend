@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CareplusApplication {
-
+int a=5;
 	public static void main(String[] args) {
 		SpringApplication.run(CareplusApplication.class, args);
 		
